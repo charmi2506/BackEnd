@@ -6,7 +6,7 @@ function getUserDetails(id){
     })
 };
 const myfun=async()=>{
-    console.log("123")
+    console.log("6111")
     const res=await getUserDetails("123");
         console.log(res);
         console.log("456")
